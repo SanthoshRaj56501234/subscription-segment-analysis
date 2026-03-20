@@ -22,3 +22,4 @@ R, Shiny, bslib, plotly, tidyverse, lubridate
 |------|-------------|
 | `41107_subscription_app.R` | Main Shiny app code |
 | `D2C_data.csv` | Subscription transaction data |
+![App Demo](https://github.com/SanthoshRaj56501234/subscription-segment-analysis/blob/e65abbf7f3c50a17e1191b4bf1f53cac8f28cde7/ScreenRecording2026-03-20at8.15.00AM-ezgif.com-video-to-gif-converter.gif)
